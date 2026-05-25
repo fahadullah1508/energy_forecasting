@@ -1,4 +1,4 @@
-# Task 3: Energy Consumption Time Series Forecasting
+# Energy Consumption Time Series Forecasting
 
 ## Overview
 Forecast short-term household energy usage using historical time-based patterns and compare multiple forecasting models.
